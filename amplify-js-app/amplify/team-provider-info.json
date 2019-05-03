@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplify-js-app-dev-20190503001529-unauthRole",
             "StackName": "amplify-js-app-dev-20190503001529",
             "StackId": "arn:aws:cloudformation:us-east-1:150135223216:stack/amplify-js-app-dev-20190503001529/787f6bf0-6d62-11e9-844f-0aad5d963972"
+        },
+        "categories": {
+            "auth": {
+                "cognito1b5fdd8c": {}
+            }
         }
     }
 }
